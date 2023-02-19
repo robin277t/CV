@@ -1,13 +1,13 @@
 # Robin Tyler
 
-[About me](#me) --  [What I bring](#whatibring) -- [Experience](#experience) -- [Selected projects](#selectedprojects) -- [Education](#education) -- [Outside of work](#outsideofwork)
+[About me](#me) ~  [What I bring](#whatibring) ~ [Experience](#experience) ~ [Selected projects](#selectedprojects) ~ [Education](#education) ~ [Outside of work](#outsideofwork)
 
 ## <a name="me">About me</a>
 
 Former founder turned full-stack software developer, keen to take on any challenge in the programming world. Recent graduate from Makers Academy, with a diverse background of 5 years in the corporate sector (analytics & product management) and 6 years with a design/e-commerce start-up (co-founder). Read [here](https://medium.com/@robintyler87/why-i-decided-on-a-career-in-programming-3060c68e5621) about why I code, and [here's](https://medium.com/@robintyler87/the-story-of-my-start-up-d1a6c97f2c0c) the brief story of my start-up journey.
  
 ## <a name="whatibring">What I bring</a>
-### My Philosophy
+### My Philosophy 🌱
 
 - I believe life should be kept interesting, and pushing yourself outside of your comfort zone is a great way to do that, doing a variety of things.
 
@@ -23,7 +23,7 @@ Former founder turned full-stack software developer, keen to take on any challen
 - **Testing:** Jest, Cypress, RSpec
 - **Mobile:** React Native
 
-### My personal skills
+### My personal skills 💥
 - Clarity. I'm good at explaining things clearly and with no nonsense. 
 - Quick on the uptake. Working out what's needed, doing the right amount of work, with the right tool, to the deadline.
 - Insanely fast reader, with a thirst for knowledge.
@@ -99,5 +99,5 @@ Former founder turned full-stack software developer, keen to take on any challen
 - 🧘 Big fan of yoga and meditation.
 - 🏃 Episodic runner, currently training for my 2nd half marathon.
 - 📚 Voracious reader (just finished Bad Blood by John Carreyrour & Lonesome Dove by Larry McMurtry, both truly excellent reads).
-- 🎹 Highly trained but occasional cellist.
+- 🎶 Highly trained but occasional cellist.
 - 🌄 Hiking and anything that gets me into the outdoors brings me joy.
