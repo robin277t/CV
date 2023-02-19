@@ -17,7 +17,7 @@ Former founder turned full-stack software developer, keen to take on any challen
 
 - I believe life should be kept interesting, and pushing yourself outside of your comfort zone is a great way to do that, doing a variety of things.
 
-- Companies ARE the people that work for them. So treat them well, understand them and how they work. Maintain a good culture, offer interesting work, and the chance to grow. 
+- Companies are really nothing more than the people that work for them. So treat them well, understand them and how they work. Maintain a good culture, offer interesting work, and the chance to grow. 
 
 - I love (indeed, thrive on) being thrown in at the deep end. 
 
