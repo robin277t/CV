@@ -6,20 +6,41 @@
 
 Former founder turned full-stack software developer, keen to take on any challenge in the programming world. Recent graduate from Makers Academy, with a diverse background of 5 years in the corporate sector (analytics & product management) and 6 years with a design/e-commerce start-up (co-founder). Read more about why I code here, and my start-up journey here.
  
- medium blog
-
-
 ## <a name="whatibring">What I bring</a>
-Skills - tech stack and soft
+### Tech stack I've covered so far 🤖
+- **Languages & Frameworks:** JavaScript, Ruby, HTML, CSS, React, Node.js, Express, Sinatra, TypeScript, WebSocket
+- **Databases:** MS SQL Server, PostgreSQL, MongoDB
+- **Testing:** Jest, Cypress, RSpec
+- **Mobile:** React Native
 
 
+### My Philosophy
+
+A good culture, interesting work, and the chance to grow. I love (indeed, thrive on) being thrown in at the deep end. 
+
+I believe life should be kept interesting, and pushing yourself outside of your comfort zone is a great way to do that.
+
+Variety is the spice of life
+
+Every day the startup threw something different at me.
+
+Companies ARE the people that work for them. So treat them well, understand them and how they work, happy people on the right mission really can't be beaten for getting things done.
+
+Leadership, but leading from the front. T
+
+### My personal skills
+- Clarity. 
+- Quick on the uptake. Working out what needs to be done, implementing it, doing the right amount of work.
+- Insanely fast reader. Useful for covering more stuff.
+- A thirst for knowledge
+- Thorough and relentless
 
 ## <a name="experience">Experience</a>
 
 ### Grain, 2016 - 2022, London
 #### Co-Founder 
 
-*Design and sustainable furniture brand, creating products for the circular economy using novel, tech-enabled on-demand manufacturing. grain.co.uk* *
+*Design and sustainable furniture brand, creating products for the circular economy using novel, tech-enabled on-demand manufacturing. - grain.co.uk* *
 
 - Co-founded with a friend in 2016. Ran operations, technology, product and research.
 
@@ -27,9 +48,9 @@ Skills - tech stack and soft
 
 - Attended the highly competitive accelerator program Founders Factory in 2020.
 
-- Built a 3D product configurator/visualiser for our website using React/Redux, Playcanvas, and CAD/CGI software allowing live customisation by users. Included significant UX and UI design R&D.
+- Built a 3D product configurator/visualiser for our website using React/Redux, Playcanvas, and Computer-Aided Design(CAD) + Computer-Generated Imagery (CGI) software allowing live customisation by users. Included significant UX and UI design R&D.
 
-- Worked closely with manufacturers to increase efficiency using bespoked CAD & management software, reducing our costs by >15%, which they have since adopted across all clients.
+- Worked closely with manufacturers to increase efficiency using bespoked CAD & management software, reducing our costs by >15%, which they have since adopted across all clients. 
 
 - Proud to have been a design-led company with very strong, research-based internal processes. Sadly, we didn’t survive the cost of living crisis - * *please note that digital assets were sold off and don’t fully represent the original 2016-2022 mission.*
 
@@ -49,8 +70,13 @@ Skills - tech stack and soft
 - Cross-team and multi-national project management with developers in California and New Delhi, and clients in Zurich, gave me serious insight into managing different perspectives. 
 
 ## <a name="selectedprojects">Selected projects</a>
-LEARNING - Kubernetes/Docker, Java, Android app games
 
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [Light Cycle](https://github.com/robin277t/light-cycle-game) | A beautiful, cross-platform 2D retro game, based on the classic film Tron. 2 players are able to play live via server on web or mobile app, or single player against the computer in offline mode. Team Project. | Node.js, Websocket, React, React-Native, Jest |
+|[Bank Tech Test](https://github.com/robin277t/bank-tech-test)| A classic coding mini-project used to show off great processes; Test-Driven Development, Object Oriented Programming, good commits and documentation  | Ruby + RSpec |
+| [10-Pin Bowling Challenge](https://github.com/robin277t/10-pin-bowling-challenge) | A coding challenge from early in my Makers career. Create the simplest way of scoring a 10-pin bowling game, which belies a surprising complexity. | Node.js, Jest |
+| [Acebook ](https://github.com/robin277t/acebook-team-mineshaft) | A facebook clone team project using the MERN stack and token authentication | MongoDB, Express, React, Node.js, Cypress  |
 
 
 ## <a name="education">Education</a>
