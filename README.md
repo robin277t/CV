@@ -1,6 +1,4 @@
 # Robin Tyler
-***
-***
 
 [About me](#me) --  [What I bring](#whatibring) -- [Experience](#experience) -- [Selected projects](#selectedprojects) -- [Education](#education) -- [Outside of work](#outsideofwork)
 
@@ -18,16 +16,7 @@ Skills - tech stack and soft
 
 ## <a name="experience">Experience</a>
 
-Makers Academy - Sept 22 - Jan 23, London
-4 month highly selective full-time course for career changers to become software developers.
 
-Included 6 weeks of Agile team working projects, embodying extreme programming (XP) values, pair programming, full git workflow and code reviews.
-
-Strong emphasis on test-driven-development (TDD) and debugging processes, mostly in Ruby and JavaScript.
-
-Projects included; full-stack web application, e.g using MERN (Mongo-Express-React-Node), Object Oriented Programming with SOLID principles, Model-View-Controller (MVC) patterns, cloud deployment, external API’s, unit and integration testing, and creating high-quality, readable, documented code.
-
-Self-led learning with a growth mindset has given me the ability to quickly and effectively take on new frameworks & languages.
 
 
 Grain - Co-Founder 2016 - 2022 - London
@@ -67,13 +56,24 @@ LEARNING - Kubernetes/Docker, Java, Android app games
 
 ## <a name="education">Education</a>
 
-### University College London;
+### Makers Academy (Sept 22 - Jan 23)
+* 4 month highly selective full-time course for career changers to become software developers.
+
+* Included 6 weeks of Agile team working projects, embodying extreme programming (XP) values, pair programming, full git workflow and code reviews.
+
+* Strong emphasis on test-driven-development (TDD) and debugging processes, mostly in Ruby and JavaScript.
+
+* Projects included; full-stack web application, e.g using MERN (Mongo-Express-React-Node), Object Oriented Programming with SOLID principles, Model-View-Controller (MVC) patterns, cloud deployment, external API’s, unit and integration testing, and creating high-quality, readable, documented code.
+
+* Self-led learning with a growth mindset has given me the ability to quickly and effectively take on new frameworks & languages.
+
+### University College London
 
 #### MSc Geophysics (2009-2010) 
-* Flood and storm surge modelling, meteorology, seismology
+* Flood and storm surge modelling, meteorology, seismology, statistics
 
-#### BSc hons(2:1) Environmental Geography (2006-2009) 
-* Climate modelling, palaeo-climatology, GIS software for geospatial analysis, statistics
+#### BSc(Hons) 2:1 Environmental Geography (2006-2009) 
+* Climate modelling, palaeo-climatology, GIS software for geospatial analysis, geopolitics, demographics
 
 ## <a name="outsideofwork">Outside of work</a> 
 All things cycling, big fan of yoga, episodic runner. Voracious reader, and a highly trained but occasional cellist. Hiking and anything that gets me into the outdoors brings me joy.
