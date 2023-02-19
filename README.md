@@ -16,25 +16,25 @@ Skills - tech stack and soft
 
 ## <a name="experience">Experience</a>
 
+#### Grain 
+##### Co-Founder 
+###### 2016 - 2022, London
 
+* Design and sustainable furniture brand, creating products for the circular economy using novel, tech-enabled on-demand manufacturing.*
 
+- Co-founded with a friend in 2016. Ran operations, technology, product and research.
 
-Grain - Co-Founder 2016 - 2022 - London
-grain.co.uk - Design and sustainable furniture brand, creating products for the circular economy using novel, tech-enabled on-demand manufacturing.
+- Over 6 years, from self-funded with a £50k start-up loan, grew to £1 million+ annual revenue, raised £1.1million in venture capital at £5 million valuation, and built the team to 15 full-time employees. Launched and ran E-commerce brand with a return on advertising spend of >4:1 (very strong in this space)
 
-Co-founded with a friend in 2016. Ran operations, technology, product and research. **
+- Attended the highly competitive accelerator program Founders Factory in 2020.
 
-Over 6 years, from self-funded with a £50k start-up loan, grew to £1 million+ annual revenue, raised £1.1million in venture capital at £5 million valuation, and built the team to 15 full-time employees. Launched and ran E-commerce brand with a return on advertising spend of >4:1 (very strong in this space)
+- Built a 3D product configurator/visualiser for our website using React/Redux, Playcanvas, and CAD/CGI software allowing live customisation by users. Included significant UX and UI design R&D.
 
-Attended highly-selective accelerator program Founders Factory in 2020.
+- Worked closely with manufacturers to increase efficiency using bespoked CAD & management software, reducing our costs by >15%, which they have since adopted across all clients.
 
-Built a 3D product configurator/visualiser for our website using React/Redux, Playcanvas, and CAD/CGI software allowing live customisation by users. Included significant UX and UI design R&D.
+- Proud to have been a design-led company with very strong, research-based internal processes. Sadly, we didn’t survive the cost of living crisis - please note that digital assets were sold off and don’t fully represent the original 2016-2022 mission.
 
-Worked closely with manufacturers to increase efficiency using bespoked CAD & management software, reducing our costs by >15%, which they have since adopted across all clients.
-
-
-
-Proud to have been a design-led company with very strong, research-based internal processes. Sadly, we didn’t survive the cost of living crisis - please note that digital assets were sold off and don’t fully represent the original 2016-2022 mission.
+- grain.co.uk (please note that as part of closing the company, the digital assets and brand were sold off, the website now only partially reflects the 2016-2022 mission)
 
 Risk Management Solutions - Product Manager 2010 - 2015 - London
 California headquartered catastrophe modelling software firm, providing damage assessments from natural catastrophes via licensable software to reinsurance companies, the finance sector, and governments.
