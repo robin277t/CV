@@ -16,10 +16,10 @@ Skills - tech stack and soft
 
 ## <a name="experience">Experience</a>
 
-### Grain (grain.co.uk) 2016 - 2022, London
+### Grain, 2016 - 2022, London
 #### Co-Founder 
 
-*Design and sustainable furniture brand, creating products for the circular economy using novel, tech-enabled on-demand manufacturing.*
+*Design and sustainable furniture brand, creating products for the circular economy using novel, tech-enabled on-demand manufacturing. grain.co.uk'*'*
 
 - Co-founded with a friend in 2016. Ran operations, technology, product and research.
 
@@ -33,7 +33,7 @@ Skills - tech stack and soft
 
 - Proud to have been a design-led company with very strong, research-based internal processes. Sadly, we didn’t survive the cost of living crisis - *please note that digital assets were sold off and don’t fully represent the original 2016-2022 mission.*
 
-### Risk Management Solutions 2010 - 2015, London
+### Risk Management Solutions, 2010 - 2015, London
 #### Product Manager
 
 *California headquartered catastrophe modelling software firm, providing damage assessments from natural catastrophes via licensable software to reinsurance companies, the finance sector, and governments.*
