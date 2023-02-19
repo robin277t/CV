@@ -19,7 +19,7 @@ Skills - tech stack and soft
 ### Grain, 2016 - 2022, London
 #### Co-Founder 
 
-*Design and sustainable furniture brand, creating products for the circular economy using novel, tech-enabled on-demand manufacturing. grain.co.uk'*'*
+*Design and sustainable furniture brand, creating products for the circular economy using novel, tech-enabled on-demand manufacturing. grain.co.uk* *
 
 - Co-founded with a friend in 2016. Ran operations, technology, product and research.
 
@@ -31,7 +31,7 @@ Skills - tech stack and soft
 
 - Worked closely with manufacturers to increase efficiency using bespoked CAD & management software, reducing our costs by >15%, which they have since adopted across all clients.
 
-- Proud to have been a design-led company with very strong, research-based internal processes. Sadly, we didn’t survive the cost of living crisis - *please note that digital assets were sold off and don’t fully represent the original 2016-2022 mission.*
+- Proud to have been a design-led company with very strong, research-based internal processes. Sadly, we didn’t survive the cost of living crisis - * *please note that digital assets were sold off and don’t fully represent the original 2016-2022 mission.*
 
 ### Risk Management Solutions, 2010 - 2015, London
 #### Product Manager
@@ -44,7 +44,7 @@ Skills - tech stack and soft
 
 - Created a new software-driven process using SQL and VBA to automate model update testing and reporting, cutting 50% off the running time and removing human errors. 
 
-- >95% client acceptance of model updates during my tenure, from working together closely and understanding their needs. Included authoring technical but understandable documentation, and international conference presentations to audiences > 50.
+- Over 95% client acceptance of model updates during my tenure, from working together closely and understanding their needs. Included authoring technical but understandable documentation, and international conference presentations to audiences > 50.
 
 - Cross-team and multi-national project management with developers in California and New Delhi, and clients in Zurich, gave me serious insight into managing different perspectives. 
 
