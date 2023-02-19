@@ -79,6 +79,6 @@ LEARNING - Kubernetes/Docker, Java, Android app games
 🚲 All things cycling (particularly riding up large mountains).\
 🧘 Big fan of yoga and meditation.\
 🏃 Episodic runner, currently training for my 2nd half marathon. \
-📚 Voracious reader (just read Bad Blood by John Carreyrour & Lonesome Dove by Larry McMurtry, both truly excellent).\
+📚 Voracious reader (just finished Bad Blood by John Carreyrour & Lonesome Dove by Larry McMurtry).\
 🎹 Highly trained but occasional cellist.\
 🌄 Hiking and anything that gets me into the outdoors brings me joy.
