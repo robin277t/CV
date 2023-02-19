@@ -13,6 +13,8 @@ ABOUT ME
 Software developer keen to take on any challenge in the programming world. Recent graduate from Makers Academy, with a diverse background of 5 years in the corporate sector (analytics & product management) and 6 years with a start-up (co-founder).
 
 
+LEARNING - Kubernetes/Docker, Java, Android app games
+
 EXPERIENCE
 
 Makers Academy - Sept 22 - Jan 23, London
