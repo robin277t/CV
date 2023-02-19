@@ -16,9 +16,8 @@ Skills - tech stack and soft
 
 ## <a name="experience">Experience</a>
 
-### Grain (grain.co.uk)
+### Grain (grain.co.uk) 2016 - 2022, London
 #### Co-Founder 
-#### 2016 - 2022, London
 
 *Design and sustainable furniture brand, creating products for the circular economy using novel, tech-enabled on-demand manufacturing.*
 
@@ -32,22 +31,22 @@ Skills - tech stack and soft
 
 - Worked closely with manufacturers to increase efficiency using bespoked CAD & management software, reducing our costs by >15%, which they have since adopted across all clients.
 
-- Proud to have been a design-led company with very strong, research-based internal processes. Sadly, we didn’t survive the cost of living crisis - please note that digital assets were sold off and don’t fully represent the original 2016-2022 mission.
+- Proud to have been a design-led company with very strong, research-based internal processes. Sadly, we didn’t survive the cost of living crisis - *please note that digital assets were sold off and don’t fully represent the original 2016-2022 mission.*
 
-- grain.co.uk (please note that as part of closing the company, the digital assets and brand were sold off, the website now only partially reflects the 2016-2022 mission)
+### Risk Management Solutions 2010 - 2015, London
+#### Product Manager
 
-Risk Management Solutions - Product Manager 2010 - 2015 - London
-California headquartered catastrophe modelling software firm, providing damage assessments from natural catastrophes via licensable software to reinsurance companies, the finance sector, and governments.
+*California headquartered catastrophe modelling software firm, providing damage assessments from natural catastrophes via licensable software to reinsurance companies, the finance sector, and governments.*
 
-Product management team for natural hazard models. Goal was ensuring model releases that were cutting edge, robust, and market-accepted.  Defined requirements, worked with model scientists & developers, and undertook validation & client acceptance testing.
+- Product management team for natural hazard models. Goal was ensuring model releases that were cutting edge, robust, and market-accepted.  Defined requirements, worked with model scientists & developers, and undertook validation & client acceptance testing.
 
-Initially ran European model testing, and following promotion, full responsibility for the companies’ global probabilistic terrorism model.
+- Initially ran European model testing, and following promotion, full responsibility for the companies’ global probabilistic terrorism model.
 
-Created a new software-driven process using SQL and VBA to automate model update testing and reporting, cutting 50% off the running time and removing human errors. 
+- Created a new software-driven process using SQL and VBA to automate model update testing and reporting, cutting 50% off the running time and removing human errors. 
 
->95% client acceptance of model updates during my tenure, from working together closely and understanding their needs. Included authoring technical but understandable documentation, and international conference presentations to audiences > 50.
+- >95% client acceptance of model updates during my tenure, from working together closely and understanding their needs. Included authoring technical but understandable documentation, and international conference presentations to audiences > 50.
 
-Cross-team and multi-national project management with developers in California and New Delhi, and clients in Zurich, gave me serious insight into managing different perspectives. 
+- Cross-team and multi-national project management with developers in California and New Delhi, and clients in Zurich, gave me serious insight into managing different perspectives. 
 
 ## <a name="selectedprojects">Selected projects</a>
 LEARNING - Kubernetes/Docker, Java, Android app games
