@@ -109,3 +109,5 @@ Former founder turned full-stack software developer, keen to take on any challen
 - 📚 Voracious reader (just finished Bad Blood by John Carreyrour & Lonesome Dove by Larry McMurtry, both truly excellent reads).
 - 🎶 Highly trained but occasional cellist.
 - 🌄 Hiking and anything that gets me into the outdoors brings me joy.
+
+[Back to top](#jump-to)
