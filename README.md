@@ -1,6 +1,8 @@
 # Robin Tyler
 
-[About me](#me) ~  [What I bring](#whatibring) ~ [Experience](#experience) ~ [Selected projects](#selectedprojects) ~ [Education](#education) ~ [Outside of work](#outsideofwork)
+[About me](#me) ~ [What I bring](#whatibring) ~ [Selected projects](#selectedprojects) ~ [Experience](#experience) ~ [Education](#education) ~ [Outside of work](#outsideofwork)
+
+***
 
 ## <a name="me">About me</a>
 
@@ -28,6 +30,16 @@ Former founder turned full-stack software developer, keen to take on any challen
 - Quick on the uptake. Working out what's needed, doing the right amount of work, with the right tool, to the deadline.
 - Insanely fast reader, with a thirst for knowledge.
 - I'm thorough, and I never give up.
+
+## <a name="selectedprojects">Selected projects</a>
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [Light Cycle](https://github.com/robin277t/light-cycle-game) | A beautiful, cross-platform 2D retro game, based on the classic film Tron. 2 players are able to play live via server on web or mobile app, or single player against the computer in offline mode. | Node.js, Websocket, React, React-Native, Jest, CSS |
+|[Bank Tech Test](https://github.com/robin277t/bank-tech-test)| A classic coding mini-project used to show off great processes; Test-Driven Development, Object Oriented Programming, good commits and documentation  | Ruby + RSpec |
+| [10-Pin Bowling Challenge](https://github.com/robin277t/10-pin-bowling-challenge) | A coding challenge from early in my Makers career. Create the simplest way of scoring a 10-pin bowling game, which belies a surprising complexity. | Node.js, Jest |
+| [Acebook ](https://github.com/robin277t/acebook-team-mineshaft) | A facebook clone team project using the MERN stack and token authentication | MongoDB, Express, React, Node.js, Cypress  |
+
 
 ## <a name="experience">Experience</a>
 
@@ -63,14 +75,6 @@ Former founder turned full-stack software developer, keen to take on any challen
 
 - Cross-team and multi-national project management with developers in California and New Delhi, and clients in Zurich, gave me serious insight into managing different perspectives. 
 
-## <a name="selectedprojects">Selected projects</a>
-
-| Project   | Description | Technologies |
-|---        |---         |---           |
-| [Light Cycle](https://github.com/robin277t/light-cycle-game) | A beautiful, cross-platform 2D retro game, based on the classic film Tron. 2 players are able to play live via server on web or mobile app, or single player against the computer in offline mode. Team Project. | Node.js, Websocket, React, React-Native, Jest, CSS |
-|[Bank Tech Test](https://github.com/robin277t/bank-tech-test)| A classic coding mini-project used to show off great processes; Test-Driven Development, Object Oriented Programming, good commits and documentation  | Ruby + RSpec |
-| [10-Pin Bowling Challenge](https://github.com/robin277t/10-pin-bowling-challenge) | A coding challenge from early in my Makers career. Create the simplest way of scoring a 10-pin bowling game, which belies a surprising complexity. | Node.js, Jest |
-| [Acebook ](https://github.com/robin277t/acebook-team-mineshaft) | A facebook clone team project using the MERN stack and token authentication | MongoDB, Express, React, Node.js, Cypress  |
 
 
 ## <a name="education">Education</a>
