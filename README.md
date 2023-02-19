@@ -11,7 +11,8 @@
 ## <a name="me">About me</a>
 
 Former founder turned full-stack software developer, keen to take on any challenge in the programming world. Recent graduate from Makers Academy, with a diverse background of 5 years in the corporate sector (analytics & product management) and 6 years with a design/e-commerce start-up (co-founder).
-<br>
+<br>   
+</br>
 Read [here](https://medium.com/@robintyler87/why-i-decided-on-a-career-in-programming-3060c68e5621) about why I code, and [here's](https://medium.com/@robintyler87/the-story-of-my-start-up-d1a6c97f2c0c) the brief story of my start-up journey.
  
 ## <a name="whatibring">What I bring</a>
