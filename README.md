@@ -1,21 +1,22 @@
 # Robin Tyler
 ***
+***
 
 [About me](#me) --  [What I bring](#whatibring) -- [Experience](#experience) -- [Selected projects](#selectedprojects) -- [Education](#education) -- [Outside of work](#outsideofwork)
 
-### <a name="me">About me</a>
+## <a name="me">About me</a>
 
 Former founder turned full-stack software developer, keen to take on any challenge in the programming world. Recent graduate from Makers Academy, with a diverse background of 5 years in the corporate sector (analytics & product management) and 6 years with a design/e-commerce start-up (co-founder). Read more about why I code here, and my start-up journey here.
  
  medium blog
 
 
-### <a name="whatibring">What I bring</a>
+## <a name="whatibring">What I bring</a>
 Skills - tech stack and soft
 
 
 
-### <a name="experience">Experience</a>
+## <a name="experience">Experience</a>
 
 Makers Academy - Sept 22 - Jan 23, London
 4 month highly selective full-time course for career changers to become software developers.
@@ -59,18 +60,22 @@ Created a new software-driven process using SQL and VBA to automate model update
 
 Cross-team and multi-national project management with developers in California and New Delhi, and clients in Zurich, gave me serious insight into managing different perspectives. 
 
-### <a name="selectedprojects">Selected projects</a>
+## <a name="selectedprojects">Selected projects</a>
 LEARNING - Kubernetes/Docker, Java, Android app games
 
 
 
-### <a name="education">Education</a>
+## <a name="education">Education</a>
 
-University College London;
-MSc Geophysics (2009-2010) - Flood and storm surge modelling, meteorology, seismology
-BSc hons (2:1) - Environmental Geography (2006-2009) Climate modelling, palaeo-climatology, GIS software for geospatial analysis 
+### University College London;
 
-### <a name="outsideofwork">Outside of work</a> 
+#### MSc Geophysics (2009-2010) 
+* Flood and storm surge modelling, meteorology, seismology
+
+#### BSc hons(2:1) Environmental Geography (2006-2009) 
+* Climate modelling, palaeo-climatology, GIS software for geospatial analysis, statistics
+
+## <a name="outsideofwork">Outside of work</a> 
 All things cycling, big fan of yoga, episodic runner. Voracious reader, and a highly trained but occasional cellist. Hiking and anything that gets me into the outdoors brings me joy.
  
 [Back to top](#Robin)
