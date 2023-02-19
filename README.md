@@ -16,11 +16,11 @@ Skills - tech stack and soft
 
 ## <a name="experience">Experience</a>
 
-#### Grain 
-##### Co-Founder 
-###### 2016 - 2022, London
+### Grain (grain.co.uk)
+#### Co-Founder 
+#### 2016 - 2022, London
 
-* Design and sustainable furniture brand, creating products for the circular economy using novel, tech-enabled on-demand manufacturing.*
+*Design and sustainable furniture brand, creating products for the circular economy using novel, tech-enabled on-demand manufacturing.*
 
 - Co-founded with a friend in 2016. Ran operations, technology, product and research.
 
