@@ -1,6 +1,4 @@
-<div align="center">
 # Robin Tyler
-</div>
 
 #### Jump to:
 - [About me](#me) 
