@@ -1,8 +1,14 @@
+<div align="center">
 # Robin Tyler
+</div>
 
-[About me](#me) ~ [What I bring](#whatibring) ~ [Selected projects](#selectedprojects) ~ [Experience](#experience) ~ [Education](#education) ~ [Outside of work](#outsideofwork)
-
-***
+#### Jump to:
+- [About me](#me) 
+- [What I bring](#whatibring) 
+- [Selected projects](#selectedprojects) 
+- [Experience](#experience) 
+- [Education](#education) 
+- [Outside of work](#outsideofwork)
 
 ## <a name="me">About me</a>
 
