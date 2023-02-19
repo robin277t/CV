@@ -1,9 +1,9 @@
 # Robin Tyler
 ***
 
-[Me](#me) |  [What I Bring](#whatibring) | [Experience](#experience) |  [Selected Projects](#selectedprojects) | [Education](#education)| [Outside of Work](#outsideofwork) |
+[About me](#me) --  [What I bring](#whatibring) -- [Experience](#experience) -- [Selected projects](#selectedprojects) -- [Education](#education) -- [Outside of work](#outsideofwork)
 
-### <a name="me">Me</a>
+### <a name="me">About me</a>
 
 Former founder turned full-stack software developer, keen to take on any challenge in the programming world. Recent graduate from Makers Academy, with a diverse background of 5 years in the corporate sector (analytics & product management) and 6 years with a design/e-commerce start-up (co-founder). Read more about why I code here, and my start-up journey here.
  
