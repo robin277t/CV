@@ -42,8 +42,8 @@ Read [here](https://medium.com/@robintyler87/why-i-decided-on-a-career-in-progra
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [Light Cycle](https://github.com/robin277t/light-cycle-game) | A beautiful, cross-platform 2D retro game, based on the classic film Tron. 2 players are able to play live via server on web or mobile app, or single player against the computer in offline mode. | Node.js, Websocket, React, React-Native, Jest, CSS |
-|[Bank Tech Test](https://github.com/robin277t/bank-tech-test)| A classic coding mini-project used to show off great processes; Test-Driven Development, Object Oriented Programming, good commits and documentation  | Ruby + RSpec |
-| [10-Pin Bowling Challenge](https://github.com/robin277t/10-pin-bowling-challenge) | A coding challenge from early in my Makers career. Create the simplest way of scoring a 10-pin bowling game, which belies a surprising complexity. | Node.js, Jest |
+|[Bank Tech Test](https://github.com/robin277t/bank-tech-test)| A classic coding mini-project used to show off great processes; Test-Driven Development, Object Oriented Programming, good commits and documentation  | Node.js, Jest |
+| [10-Pin Bowling Challenge](https://github.com/robin277t/10-pin-bowling-challenge) | A coding challenge from early in my Makers career. Create the simplest way of scoring a 10-pin bowling game, which belies a surprising complexity. | Node.js, Jest + Ruby, RSpec |
 | [Acebook ](https://github.com/robin277t/acebook-team-mineshaft) | A facebook clone team project using the MERN stack and token authentication | MongoDB, Express, React, Node.js, Cypress  |
 
 
