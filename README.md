@@ -32,16 +32,16 @@ Read [here](https://medium.com/@robintyler87/why-i-decided-on-a-career-in-progra
 - **Mobile:** React Native
 
 ### My personal skills 💥
-- **Clarity.**
+- **Clarity:**
 I'm good at communicating things clearly and with no nonsense. I developed this skill in 2 places, firstly by giving presentations on natural catastrophes, where it is easy to try and impress with science, but understanding what the audience actually needs to hear is important for keeping their attention. Secondly was when running a business (often being squeezed for time), where giving unambiguous & clear instructions was really important to avoid errors that could multiply down the line. My clarity was also amply demonstated when managing Trello tickets and breaking up workload during team projects at Makers Academy. I'm not afraid to speak up when needed.
 
-- **Inquisitive**
+- **Inquisitive:**
 I am a fast reader, and learner, with a decent thirst for knowledge. I've just enjoyed watching/reading a crash course on computer science to understand how it all works under the hood. In my work life this is also a useful trait, whether it's being able to quickly take in journal articles from the latest weather forecasting science, or comprehending legal contracts whilst at Grain. At Makers, this skill proved invaluable to getting team projects up and running in quick time, particularly when we were required to understand and start using new frameworks or codebases from their documentation.
 
-- **Working well under pressure**
+- **Working well under pressure:**
 Pitching and negotiating, whilst simultaneously keeping the day-to-day functions of my company running made for a high-pressure environment. This would often bring out the most productive side of me, with a mind focussed on efficiency. Similarly, I found in my previous corporate role, working in a client driven environment, that I enjoyed the busy times the most. During the Makers program, I/we often set outselves ambitious goals in order to maximise the time we had there, which required working well under pressure as deadlines approached, so as to keep the project structured. I have good stamina for keeping going, whilst remaining thorough. However, I am also self-aware enough to know when something is too much for me or those around me, and to raise that.
 
-- **Quick on the uptake, thinking several steps ahead.**
+- **Quick on the uptake, thinking several steps ahead:**
 Working out what's needed, doing the right amount of work, with the right tool, to the deadline. I found this to be a massively important skill working at my start-up, where we had limited resources and time, and a plethora of competing tools we could use, with potentially high stakes for getting the choice wrong. Analysing an action from start to end before beginning work, such as when choosing a type of manufacturing process to produce a new product, or to bolt on a new service to our website was crucial to success. New things needed to be learnt quickly, or for quickly learnable alternatives to be found in order to stay on-mission and complete the task well. I have found these skills to be highly applicable when working on coding projects, especially at planning/inception stages and during retros. 
 
 
