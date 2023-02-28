@@ -32,10 +32,10 @@ Read [here](https://medium.com/@robintyler87/why-i-decided-on-a-career-in-progra
 - **Mobile:** React Native
 
 ### My personal skills 💥
-- Clarity. I'm good at explaining things clearly and with no nonsense. 
-- Quick on the uptake. Working out what's needed, doing the right amount of work, with the right tool, to the deadline.
-- Insanely fast reader, with a thirst for knowledge.
-- I'm thorough, and I never give up.
+- **Clarity.** I'm good at explaining things clearly and with no nonsense. I developed this skill giving presentations on natural catastrophes, where it is easy to try and impress with science, but understanding what the audience actually needs to hear is important for keeping attention. My clarity was also amply demonstated when managing Trello tickets and breaking up workload during team projects at Makers Academy.
+- **Quick on the uptake.** Working out what's needed, doing the right amount of work, with the right tool, to the deadline. I found this to be a massively important skill working at my start-up, where we had limited resources and time, and a plethora of competing tools we could use, with potentially high stakes for getting the choice wrong. Analysing an action from start to end before beginning work, such as when choosing a type of manufacturing process to produce a new product, or to bolt on a new service to our website was crucial to success. New things needed to be learnt quickly, or for quickly learnable alternatives to be found, in order to stay on mission and ensure success. I found these skills to be highly applicable when working on coding projects, especially at planning/inception stages and during retros.
+- **Insanely fast reader**, with a thirst for knowledge. I've just enjoyed watching/reading a crash course on computer science to understand how it all works under the hood. And in my work life, being able to take in the documentation about things such as the latest weather forecasting science, or legal contracts from suppliers at Grain, or at Makers for new frameworks we require (most recently React Native) has proved invaluable to getting projects up and running in quick time.
+- **I'm thorough, and I never give up.**
 
 ## <a name="selectedprojects">Selected projects</a>
 
