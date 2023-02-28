@@ -10,7 +10,7 @@
 
 ## <a name="me">About me</a>
 
-Former founder turned full-stack software developer, keen to take on any challenge in the programming world. Recent graduate from Makers Academy, with a diverse background of 5 years in the corporate sector (analytics & product management) and 6 years with a design/e-commerce start-up (co-founder).
+Former company founder turned software developer. Recent graduate from Makers Academy, with a diverse background of 5 years in the corporate sector (analytics & product management) & 6 years with a start-up (co-founder). I moved into coding because I want to work around intelligent people, enjoy being able to see the results of my work, and get to constantly learn new things in a cutting-edge industry.
 <br></br>
 Read [here](https://medium.com/@robintyler87/why-i-decided-on-a-career-in-programming-3060c68e5621) about why I code, and [here's](https://medium.com/@robintyler87/the-story-of-my-start-up-d1a6c97f2c0c) the story of my start-up journey.
  
@@ -54,32 +54,30 @@ Read [here](https://medium.com/@robintyler87/why-i-decided-on-a-career-in-progra
 
 *Design and sustainable furniture brand, creating products for the circular economy using novel, tech-enabled on-demand manufacturing. - grain.co.uk* *
 
-- Co-founded with a friend in 2016. Ran operations, technology, product and research.
+- Co-founded with a friend in 2016. Leadership of operations, technology, product & research. I built and nurtured a culture of supportive teamwork & empathy, to empower us as a people-first business.
 
-- Over 6 years, from self-funded with a £50k start-up loan, grew to £1 million+ annual revenue, raised £1.1million in venture capital at £5 million valuation, and built the team to 15 full-time employees. Launched and ran E-commerce brand with a return on advertising spend of >4:1 (very strong in this space)
+- Over 6 years, from self-funded with a £50k start-up loan, grew to £1 million+ annual revenue, raised £1.1million in venture capital at £5 million valuation, and built the team to 15 full-time employees. Launched and ran E-commerce brand with a return on advertising spend of >4:1 (very strong in this space).
 
 - Attended the highly competitive accelerator program Founders Factory in 2020.
 
-- Built a 3D product configurator/visualiser for our website using React/Redux, Playcanvas, and Computer-Aided Design (CAD) + Computer-Generated Imagery (CGI) software allowing live customisation by users. Included significant UX and UI design R&D.
+- Built a 3D product configurator/visualiser for our website using React/Redux, Playcanvas, and Computer-Aided Design (CAD) + Computer-Generated Imagery (CGI) software allowing live customisation by users. We applied a strong customer focus to UX/UI design.
 
 - Worked closely with manufacturers to increase efficiency using bespoked CAD & management software, reducing our costs by >15%, which they have since adopted across all clients. 
 
-- Proud to have been a design-led company with very strong, research-based internal processes. Sadly, we didn’t survive the cost of living crisis - * *please note that digital assets were sold off and don’t fully represent the original 2016-2022 mission.*
+- Proud to have been a design-led company, with a brilliant team following strong, research-based internal processes. Sadly, we didn’t survive the cost of living crisis - * *please note that digital assets were sold off and don’t fully represent the original 2016-2022 mission.*
 
 ### Risk Management Solutions, 2010 - 2015, London
 #### Product Manager
 
 *California headquartered catastrophe modelling software firm, providing damage assessments from natural catastrophes via licensable software to reinsurance companies, the finance sector, and governments.*
 
-- Product management team for natural hazard models. Goal was ensuring model releases that were cutting edge, robust, and market-accepted.  Defined requirements, worked with model scientists & developers, and undertook validation & client acceptance testing.
+- Product management team for natural hazard models. Ensured model releases were cutting edge, robust, and market-accepted. Defined requirements, worked with model scientists & developers, and undertook validation & client acceptance testing involving huge attention to detail.
 
-- Initially ran European model testing, and following promotion, full responsibility for the companies’ global probabilistic terrorism model.
+- Ran European model testing, creating new software processes using SQL & VBA to automate model update testing/reporting, cutting 66% from teams’ workload and removing human errors.
 
-- Created a new software-driven process using SQL and VBA to automate model update testing and reporting, cutting 50% off the running time and removing human errors. 
+- Following promotion, sole responsibility for the companies’ global probabilistic terrorism model. >95% acceptance of model updates during my tenure was down to working closely with clients, including authoring usable documentation, and giving international conference presentations to audiences > 50.
 
-- Over 95% client acceptance of model updates during my tenure, from working together closely and understanding their needs. Included authoring technical but understandable documentation, and international conference presentations to audiences > 50.
-
-- Cross-team and multi-national project management with developers in California and New Delhi, and clients in Zurich, gave me serious insight into managing different perspectives. 
+- Cross-team and multi-national project leadership with developers in California and New Delhi, and clients in Zurich, gave me serious insight into managing different perspectives. 
 
 
 
@@ -88,13 +86,13 @@ Read [here](https://medium.com/@robintyler87/why-i-decided-on-a-career-in-progra
 ### Makers Academy (Sept 22 - Jan 23)
 * 4 month highly selective full-time course for career changers to become software developers.
 
-* Included 6 weeks of Agile team working projects, embodying extreme programming (XP) values, pair programming, full git workflow and code reviews.
+* Included 6 weeks of Agile team working projects, embodying extreme programming (XP) values, pair programming, full git workflow, and code reviews requiring high attention to detail.
 
-* Strong emphasis on test-driven-development (TDD) and debugging processes, mostly in Ruby and JavaScript.
+* Strong emphasis on empathetic team-work, using test-driven-development (TDD) and debugging processes in Ruby and JavaScript, to write error-proof code. 
 
 * Projects included; full-stack web application, e.g using MERN (Mongo-Express-React-Node), Object Oriented Programming with SOLID principles, Model-View-Controller (MVC) patterns, cloud deployment, external API’s, unit and integration testing, and creating high-quality, readable, documented code.
 
-* Self-led learning with a growth mindset has given me the ability to quickly and effectively take on new frameworks & languages.
+* Self-led learning with a growth mindset has given me the ability to quickly and effectively take on new frameworks & languages, and tackle pre-existing, complex codebases.
 
 ### University College London
 
