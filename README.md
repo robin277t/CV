@@ -52,7 +52,7 @@ Working out what's needed, doing the right amount of work, and with the right to
 |---        |---         |---           |
 | [Train Mood Map](https://github.com/robin277t/train-mood-map) | *Project just commenced* A map based visualisation website to understand and predict general train lateness in your selected area. | PostgreSQL, Node, Express, React, Train data API |
 | [Light Cycle](https://github.com/robin277t/light-cycle-game) | A beautiful, cross-platform 2D retro game, based on the classic film Tron. 2 players are able to play live via server on web or mobile app, or single player against the computer in offline mode. | Node.js, Websocket, React, React-Native, Jest, CSS |
-|[Bank Tech Test](https://github.com/robin277t/bank-tech-test)| A classic coding mini-project used to show off great processes; Test-Driven Development, Object Oriented Programming, good commits and documentation  | Node.js, Jest |
+|[Bank Tech Test](https://github.com/robin277t/bank-tech-test-JS)| A classic coding mini-project used to show off great processes; Test-Driven Development, Object Oriented Programming, good commits and documentation  | Node.js, Jest |
 | [10-Pin Bowling Challenge](https://github.com/robin277t/10-pin-bowling-challenge) | A coding challenge from early in my Makers career. Create the simplest way of scoring a 10-pin bowling game, which belies a surprising complexity. | Node.js, Jest + Ruby, RSpec |
 | [Acebook ](https://github.com/robin277t/acebook-team-mineshaft) | A facebook clone team project using the MERN stack and token authentication | MongoDB, Express, React, Node.js, Cypress  |
 
