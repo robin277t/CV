@@ -26,7 +26,7 @@ Read [here](https://medium.com/@robintyler87/why-i-decided-on-a-career-in-progra
 - Effective leadership is leading from the front, and emotionally intelligent team-working is the best, for both people and task.
 
 ### Tech stack I've covered so far 🤖
-- **Languages & Frameworks:** JavaScript, Ruby, HTML, CSS, React, Node.js, Express, Sinatra, TypeScript, WebSocket
+- **Languages & Frameworks:** JavaScript, Ruby, HTML, CSS, React, Node.js, ExpressJS, Sinatra, Python, Rails, TypeScript, WebSocket
 - **Databases:** MS SQL Server, PostgreSQL, MongoDB
 - **Testing:** Jest, Cypress, RSpec
 - **Mobile:** React Native
