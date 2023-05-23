@@ -26,7 +26,7 @@ Read [here](https://medium.com/@robintyler87/why-i-decided-on-a-career-in-progra
 - Effective leadership is leading from the front, and emotionally intelligent team-working is the best, for both people and task.
 
 ### Tech stack I've covered so far 🤖
-- **Languages & Frameworks:** JavaScript, Ruby, HTML, CSS, React, Node.js, ExpressJS, Sinatra, Python, Rails, TypeScript, WebSocket
+- **Languages & Frameworks:** JavaScript, Ruby, HTML, CSS, React, Vue.js, Node.js, ExpressJS, Sinatra, Python, Rails, TypeScript, WebSocket
 - **Databases:** MS SQL Server, PostgreSQL, MongoDB
 - **Testing:** Jest, Cypress, RSpec
 - **Mobile:** React Native
@@ -50,6 +50,7 @@ Working out what's needed, doing the right amount of work, and with the right to
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
+| [Beer Time for the Craft Beer Channel](https://github.com/robin277t/cbc-app) | *Project at mid-stages* A companion app to allow Craft Beer Channel subscribers to see a map of where to drink good beer, access the latest video and podcast content content feeds, and hear about news and events from the company. Coming to the app store in June 2022. | React Native, React, MongoDB, Node, Express |
 | [Train Mood Map](https://github.com/robin277t/train-mood-map) | *Project just commenced* A map based visualisation website to understand and predict general train lateness in your selected area. | PostgreSQL, Node, Express, React, Train data API |
 | [Light Cycle](https://github.com/robin277t/light-cycle-game) | A beautiful, cross-platform 2D retro game, based on the classic film Tron. 2 players are able to play live via server on web or mobile app, or single player against the computer in offline mode. | Node.js, Websocket, React, React-Native, Jest, CSS |
 |[Bank Tech Test](https://github.com/robin277t/bank-tech-test-JS)| A classic coding mini-project used to show off great processes; Test-Driven Development, Object Oriented Programming, good commits and documentation  | Node.js, Jest |
@@ -58,6 +59,9 @@ Working out what's needed, doing the right amount of work, and with the right to
 
 
 ## <a name="experience">Experience</a>
+
+### Freelance developer, April 2022 - present
+*Design, build, and deploy a mobile app called Beer Time, for small media brand The Craft Beer Channel. See my selected projects for more details.*
 
 ### Grain, 2016 - 2022, London
 #### Co-Founder 
