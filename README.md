@@ -60,7 +60,7 @@ Working out what's needed, doing the right amount of work, and with the right to
 
 ## <a name="experience">Experience</a>
 
-### Freelance developer, April 2022 - present
+### Freelance developer, April 2023 - present
 *Design, build, and deploy a mobile app called Beer Time, for small media brand The Craft Beer Channel. See my selected projects for more details.*
 
 ### Grain, 2016 - 2022, London
